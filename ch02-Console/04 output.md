@@ -3,14 +3,15 @@
 
 ## 输出控制
 
-1. ### Style输出到控制台
+### 1.Style输出到控制台
 
 ``` javascript
 console.log("%c NPM %c v6.2.0 ", "background:#555;color:white", "background:orange");
 ```
 
 
-2. ### 使用{}包含输出变量
+### 2.使用{}包含输出变量
+
 ``` javascript
 var name = "John";
 var age = 20;

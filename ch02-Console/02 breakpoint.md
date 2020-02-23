@@ -3,8 +3,9 @@
 
 ## 条件断点
 
-1. ### Debugger中打条件断点  
+### 1.Debugger中打条件断点  
 New Snippet
+
 ``` javascript
 
 for (var i = 0; i < 10; i++) {
@@ -17,9 +18,10 @@ for (var i = 0; i < 10; i++) {
 // Add Conditional Breakpoint i === 5
 ```
 
-2. ### 忍者输出  
+### 2.忍者输出  
 因为console.log返回undefined即false，所以条件断点可以如下使用  
 New Snippet
+
 ``` javascript
 var beg = "Console Time Here";  // Add Conditional Breakpoint console.time()
 for (var i = 0; i < 10; i++) {

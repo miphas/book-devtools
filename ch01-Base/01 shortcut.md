@@ -3,19 +3,19 @@
 
 ## 快捷键
 
-* ### 1. 打开调试工具
+### 1.打开调试工具
   * **F12**
   * **Commmand(⌘) + Option(⌥) + I**
 
-* ### 2. 切换调试标签
+### 2.切换调试标签
   * **Command(⌘) + [**
   * **Command(⌘) + ]**
   * **Command(⌘) + 1-9 (Settings -> Enable ⌘ + 1-9)**
 
-* ### 3. 查找
+### 3.查找
   * **Command(⌘) + F**
 
-* ### 4. Command
+### 4.Command
   * **Command(⌘) + Shift(⇧) + P**
 
 eg.  

@@ -3,7 +3,7 @@
 
 ## 全局函数
 
-1. ### $  
+### 1.$  
 类似于querySelector
 
 ``` javascript
@@ -12,7 +12,7 @@ document.querySelector('div')
 $('div')
 ```
 
-2. ### $$
+### 2.$$
 类似于querySelectorAll但返回值是数组，不是NodeList
 
 ``` javascript
@@ -20,22 +20,24 @@ Array.from(document.querySelectorAll('div'))
 $$('div')
 ```
 
-3. ### $_
+### 3.$_
 上一次执行结果的引用
+
 ``` javascript
 (() => 123)() // 123
 $_    // 123
 ```
 
-4. ### $0
+### 4.$0
 当前选中的节点，在console下试试  
 依次类推，$1 $2 $3 $4分别是上一次选中的、上上一次、上上上一次、...  
 PS: 
-- 没有$5
-- 查看返回节点属性使用dir($0)
+没有$5  
+查看返回节点属性使用dir($0)  
 
 
-5. ### copy
+### 5.copy
+
 ``` javascript
 var person = {
     name: "John",
@@ -46,8 +48,9 @@ copy(person);
 // and then try to past in vscode
 ```
 
-6. ### queryObjects  
+### 6.queryObjects  
 查询类对应的实例
+
 ``` javascript
 class Person {
     constructor(name, age) {
@@ -61,8 +64,9 @@ const p2 = new Person("B", 20);
 queryObjects(Person);
 ```
 
-7. ### monitor   
+### 7.monitor   
 监控方法是否被调用（节省打console.log）  
+
 ``` javascript
 class Person {
     constructor(name, age) {
@@ -83,7 +87,7 @@ p1.getName(); // function getName called
 p2.getName(); // function getName called
 ```
 
-7. ### monitorEvents    
+### 8.monitorEvents    
 
 ``` javascript 
 // Choose a node and run these code

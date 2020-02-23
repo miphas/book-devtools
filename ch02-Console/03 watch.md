@@ -3,7 +3,7 @@
 
 ## 变量监控
 
-1. ### 监控变量
+### 1.监控变量
 
 ``` javascript
 var objA = {a: "a", b: "b"};
@@ -17,6 +17,6 @@ for (var i = 0; i < 10; i++) {
 }
 ```
 
-2. ### Watch
+### 2.Watch
 debugger面板的watch具有类似功能
 
