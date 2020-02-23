@@ -1,5 +1,5 @@
 
-# Base
+# Shortcut
 
 ## 快捷键
 
@@ -19,12 +19,12 @@
   * **Command(⌘) + Shift(⇧) + P**
 
 eg.  
-1. 选中网页中的一个节点
-2. 使用快捷键 Command(⌘) + Shift(⇧) + P
-3. 输入capture，选择"capture node screenshot"
+- 1. 选中网页中的一个节点
+- 2. 使用快捷键 Command(⌘) + Shift(⇧) + P
+- 3. 输入capture，选择"capture node screenshot"
 你将得到一张节点的截图
 
 ps: 
 输入Command(⌘) 
-1. 输入法 -> 显示表情与符号 -> Settings -> 自定列表 -> 勾选技术符号
-2. Control + Command + Space
+- 1. 输入法 -> 显示表情与符号 -> Settings -> 自定列表 -> 勾选技术符号
+- 2. Control + Command + Space
