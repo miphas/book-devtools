@@ -17,3 +17,4 @@ getApp().env.notify('__test_preprocess__', {pageType: 1, hasPopup:true, showText
 
 **Command\(⌘\) + P** **输入! + 刚才的代码名**
 
+![run-snippets](../.gitbook/assets/run-snippets.webp)
