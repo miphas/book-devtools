@@ -1,11 +1,10 @@
-
-# 03 Watch  
+# 03 Watch
 
 ## 变量监控
 
 ### 1.监控变量
 
-``` javascript
+```javascript
 var objA = {a: "a", b: "b"};
 
 // 点击控制台上小眼睛 Create Live Expression 输入ObjA
@@ -18,5 +17,6 @@ for (var i = 0; i < 10; i++) {
 ```
 
 ### 2.Watch
+
 debugger面板的watch具有类似功能
 
