@@ -19,7 +19,6 @@ for (var i = 0; i < 10; i++) {
 
 ![breakpoint-condition](../.gitbook/assets/breakpoint-condition.webp)
 
-
 ### 2.忍者输出
 
 因为console.log返回undefined即false，所以条件断点可以如下使用  
@@ -35,9 +34,7 @@ var end = "Console TimeEnd Here"  // Add Conditional Breakpoint console.timeEnd(
 // 拿到了程序执行时间 default: 0.14404296875ms
 ```
 
-
 ![breakpoint-ninja](../.gitbook/assets/breakpoint-ninja.webp)
-
 
 PS:
 
