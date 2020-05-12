@@ -6,11 +6,16 @@
 ### 1.打开调试工具
   * **F12**
   * **Commmand(⌘) + Option(⌥) + I**
+  * **Shift(⇧) + Commmand(⌘) + D**
+
+![switch-panel](../pics/switch-layout.webp)
 
 ### 2.切换调试标签
   * **Command(⌘) + [**
   * **Command(⌘) + ]**
   * **Command(⌘) + 1-9 (Settings -> Enable ⌘ + 1-9)**
+
+![switch-tab](../pics/switch-tab.webp)
 
 ### 3.查找
   * **Command(⌘) + F**
