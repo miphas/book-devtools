@@ -13,9 +13,9 @@ Debugging Art Of Chrome DevTools
 
 * 切换主题
 
-<img src="./.gitbook/assets/command-theme.webp" width="60%">
+<img src="./.gitbook/assets/command-theme.webp" width="60%"/>
 
 * 截图
 
-<img src="./.gitbook/assets/command-shortcut.webp" width="60%">
+<img src="./.gitbook/assets/command-shortcut.webp" width="60%"/>
 
